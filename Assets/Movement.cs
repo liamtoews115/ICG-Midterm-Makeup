@@ -16,16 +16,17 @@ public class Movement : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.D))
         {
-            rb.linearVelocity = (new Vector3(speed,0,0));
+            /*rb.linearVelocity = (new Vector3(speed,0,0));*/
+            rb.AddForce(-Vector3.left * speed, ForceMode.Acceleration);
         }
         if (Input.GetKey(KeyCode.A))
         {
-            rb.linearVelocity = (new Vector3(-speed,0,0));
+            rb.AddForce(Vector3.left * speed, ForceMode.Acceleration);
         }
         
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            rb.AddForce(Vector3.up * 10, ForceMode.Impulse);
+            rb.AddForce(Vector3.up * 5, ForceMode.Impulse);
         }
         
     }
