@@ -1,3 +1,8 @@
+**Part 2 Reflection Shader**
+I tried to add a reflection to the pillars on the main ground. I want them to be metal to add more shine to them. It is a reflection of the skybox to give a darker tone and tints the reflection red to add to the heat in the area.
+
+<img width="270" height="320" alt="image" src="https://github.com/user-attachments/assets/1e7745d4-0b97-4df3-b1a3-dd6c9bbcabde" />
+
 
 **Part 3 Meaningful Tiling**
 I added a shader for scrolling the lava. It uses the tileing offset of the UV to add more offset infinetly over a time variable. It can allow for different speeds to mimic the movement of my lava
