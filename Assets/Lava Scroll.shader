@@ -48,9 +48,9 @@ Shader "Liam/Lava Scroll"
 
             half4 frag(Varyings IN) : SV_Target
             {
-                float2 scrolledUV = IN.uv + float2(_ScrollX, _ScrollY) * _Time.y;
+                float2 move = IN.uv + float2(_ScrollX, _ScrollY) * _Time.y;
 
-                half4 finalTex = SAMPLE_TEXTURE2D(_MainTex, sampler_MainTex, scrolledUV);
+                half4 finalTex = SAMPLE_TEXTURE2D(_MainTex, sampler_MainTex, move);
 
                 half4 finalColor = (finalTex) * 0.5;
                 
