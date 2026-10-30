@@ -4,4 +4,7 @@ This one is done in shader graph. It uses a speed variable to change how fast a 
 
 <img width="263" height="283" alt="image" src="https://github.com/user-attachments/assets/cefa2fa5-a1ea-44bb-92c7-80986fe5c18d" />
 
+**General Purpose**
+I decided to give general purpose to the background map. It is basically supposed to be mountains so I put it as a rocky backdrop. This shader is quite simple but that is all that is needed it adds texture and a but of color tint to the backdrop so it appears a more warm version of the texture.
 
+<img width="263" height="247" alt="image" src="https://github.com/user-attachments/assets/6dcb8e03-6ff2-4690-91cd-e3e114f4471e" />
