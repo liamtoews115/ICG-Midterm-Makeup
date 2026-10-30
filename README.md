@@ -22,4 +22,8 @@ I decided to give general purpose to the background map. It is basically suppose
 <img width="263" height="247" alt="image" src="https://github.com/user-attachments/assets/6dcb8e03-6ff2-4690-91cd-e3e114f4471e" />
 <img width="278" height="258" alt="image" src="https://github.com/user-attachments/assets/96876e7e-d3e9-4893-8995-4f5fad6072a2" />
 
+**Part 7 Additional Effect**
+I decided to add a fresnal shader to the main character. I did this because I thought the scene was a bit dim and in the gameplay the character seems a bit shiny or glowy. It adds a bit of light into the dark world that is currently there. (The lava texture is a stand in beacause I dont have a frog one).
+
+<img width="266" height="328" alt="image" src="https://github.com/user-attachments/assets/72261c4e-5ea7-4c24-90cc-4f2b51f51281" />
 
