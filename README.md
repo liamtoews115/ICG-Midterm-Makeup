@@ -17,6 +17,9 @@ This one is done in shader graph. It uses a speed variable to change how fast a 
 <img width="263" height="283" alt="image" src="https://github.com/user-attachments/assets/cefa2fa5-a1ea-44bb-92c7-80986fe5c18d" />
 
 **Part 6 General Purpose**
-I decided to give general purpose to the background map. It is basically supposed to be mountains so I put it as a rocky backdrop. This shader is quite simple but that is all that is needed it adds texture and a but of color tint to the backdrop so it appears a more warm version of the texture.
+I decided to give general purpose to the background map. It is basically supposed to be mountains so I put it as a rocky backdrop. This shader is quite simple but that is all that is needed it adds texture and a but of color tint to the backdrop so it appears a more warm version of the texture. I also added another one of it to the ground to give the texture and that deep red tint that is in the game
 
 <img width="263" height="247" alt="image" src="https://github.com/user-attachments/assets/6dcb8e03-6ff2-4690-91cd-e3e114f4471e" />
+<img width="278" height="258" alt="image" src="https://github.com/user-attachments/assets/96876e7e-d3e9-4893-8995-4f5fad6072a2" />
+
+
